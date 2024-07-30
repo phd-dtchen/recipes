@@ -7,4 +7,4 @@ Ingredients:
 
 Instructions:
 * Mix everything together
-* Mash it up
+* Mash it up with a fork
